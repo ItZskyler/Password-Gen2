@@ -16,6 +16,8 @@ import javax.swing.JToggleButton;
 
 public class PassGen extends JFrame {
 
+	//Copyright by ItZskyler
+	
 	private static final long serialVersionUID = -8781984378583548631L;
 	private JPanel contentPane;
 	private JTextField textField;
